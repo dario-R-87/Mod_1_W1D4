@@ -1,0 +1,167 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo_header {
+  width: 5%;
+  padding: 5px 15px;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  padding: 15px;
+  background-color: #e3e6e6;
+}
+
+.bg_t1 {
+  background-color: #232f3e;
+}
+
+.bg_t2 {
+  background-color: #485769;
+  color: white;
+  font-size: 9px;
+  padding: 5px 15px 5px 15px;
+}
+
+.bg_t2 a {
+  display: inline-block;
+  color: white;
+  padding: 7px 0;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.menu_item {
+  display: inline-block;
+  margin: 0 10px 0 0;
+}
+
+#gift_card {
+  background-color: #ff9900;
+  padding: 5px 0;
+  text-align: center;
+  color: white;
+  font-size: 9px;
+}
+
+#gift_guide {
+  background-image: url("./assets/bg-image.png");
+  /* background-repeat: round; */
+  background-size: 100%;
+  object-fit: cover;
+  color: white;
+}
+
+h3 {
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px 0 15px 0;
+}
+
+h6 {
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.img_t_a {
+  box-shadow: 4px 6px 10px #888888a6;
+  width: 22%;
+  margin: 0 20px 0 0;
+  border-radius: 10px;
+  aspect-ratio: 1/1.2;
+  object-fit: cover;
+}
+
+.img_t_b {
+  width: 100%;
+  object-fit: cover;
+}
+
+.section_multi {
+  background-color: white;
+  padding: 0 0 15px 15px;
+  
+}
+
+.section {
+  margin-top: 15px;
+}
+
+.desc_m {
+  font-weight: bold;
+  font-size: 12px;
+  padding: 7px 0 7px 3.2%;
+  margin: 0;
+}
+
+.desc {
+  font-weight: bold;
+  font-size: 12px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.cat {
+  color: green;
+  font-weight: bold;
+  font-size: 10px;
+  margin: 0;
+  padding-left: 7px;
+}
+
+.extra {
+  width: 36%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.extra_cont {
+  padding: 10px 0 20px 30px;
+  background-color: white;
+  display: inline-block;
+  width: 19%;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  font-size: 12px;
+  min-width: 200px;
+}
+
+.extra_cont span {
+  text-align: center;
+  padding-left: 18%;
+}
+
+.extra_prod {
+  margin-bottom: 15px;
+}
+
+.extra_cont div {
+  position: relative;
+}
+
+.new_first {
+  width: 12%;
+  position: absolute;
+  left: 30%;
+  top: 80%;
+}
+
+.new_fourth {
+  width: 12%;
+  position: absolute;
+  left: 75%;
+  top: 80%;
+}
+
+#logo_footer {
+  width: 8%;
+  margin: 0 46%;
+  padding: 30px 0;
+}
